@@ -108,3 +108,5 @@ The following Python visualizations were embedded inside Power BI:
 ---
 
 ## OUTPUT of the task 4:
+
+![Image](https://github.com/user-attachments/assets/cab0d5fd-041d-44cd-ad1b-5cdaa3119faf)
